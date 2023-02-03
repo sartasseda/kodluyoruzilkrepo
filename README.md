@@ -1,4 +1,4 @@
-# Kodluyoruzilkrepo
+# kodluyoruz ilk repo 
 
 Bu repo [kodluyoruz]() Front-End eğitiminde oluşturduğumuz ilk repo içerisinde bir adet REDME dosyası , bir adet ındex.htmk barındırıyor.
 
